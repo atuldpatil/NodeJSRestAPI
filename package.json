@@ -1,0 +1,27 @@
+{
+  "name": "tea",
+  "version": "1.0.0",
+  "description": "Build a REST API with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcommand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atuldpatil/NodeJSRestAPI.git"
+  },
+  "keywords": [
+    "tea",
+    "restapi",
+    "node"
+  ],
+  "author": "Atul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atuldpatil/NodeJSRestAPI/issues"
+  },
+  "homepage": "https://github.com/atuldpatil/NodeJSRestAPI#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
